@@ -1,5 +1,8 @@
 # AI in Production Projects
 
+![AIP](https://never-stop-learning.de/wp-content/uploads/2024/04/image-61.png)
+
+
 This repository showcases end-to-end examples of how to build, deploy, and maintain AI systems in production environments. Each project demonstrates real-world applications, covering a wide range of AI deployment strategies, including APIs, cloud services, and MLOps pipelines. Projects included:
 
 # 1. Image Classification API with TensorFlow Serving
