@@ -7,7 +7,7 @@ This repository showcases end-to-end examples of how to build, deploy, and maint
 
 # 1. Image Classification API with TensorFlow Serving
 
-Build and deploy a deep learning model for image classification using TensorFlow. This project covers training the model, containerizing it with Docker, and deploying it using TensorFlow Serving with a REST API for real-time predictions.
+Build and deploy a deep learning model for image classification using TensorFlow. This project covers training the model, containerizing it with Docker, and deploying it utilizing TensorFlow Serving with a REST API for real-time predictions.
 
     Tools: TensorFlow, Docker, REST API, Kubernetes
     Key Topics: Model deployment, scalable API, containerization
