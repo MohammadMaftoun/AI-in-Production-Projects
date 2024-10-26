@@ -21,7 +21,7 @@ A serverless solution for real-time text sentiment analysis. The model is deploy
 
 # 3. Recommendation System with Apache Spark
 
-Implement a recommendation engine using collaborative filtering techniques on large datasets. This project indicates how to handle large-scale data processing using Apache Spark, and how to deploy the model for batch inference.
+Implement a recommendation engine using collaborative filtering approavhes on large datasets. This project indicates how to handle large-scale data processing using Apache Spark, and how to deploy the model for batch inference.
 
     Tools: Apache Spark, Docker, AWS EMR, Flask
     Key Topics: Distributed computing, recommendation systems, batch inference
