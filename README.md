@@ -3,7 +3,7 @@
 ![AIP](https://never-stop-learning.de/wp-content/uploads/2024/04/image-61.png)
 
 
-This repository showcases end-to-end examples of how to build, deploy, and maintain AI systems in production environments. Each project demonstrates real-world applications, covering a wide range of AI deployment strategies, including APIs, cloud services, and MLOps pipelines. Projects included:
+This repository showcases end-to-end examples of how to build, deploy, and maintain AI systems in production environments. Each project demonstrates real-world applications, covering various AI deployment strategies, including APIs, cloud services, and MLOps pipelines. Projects included:
 
 # 1. Image Classification API with TensorFlow Serving
 
@@ -21,14 +21,14 @@ A serverless solution for real-time text sentiment analysis. The model is deploy
 
 # 3. Recommendation System with Apache Spark
 
-Implement a recommendation engine using collaborative filtering approavhes on large datasets. This project indicates how to handle large-scale data processing using Apache Spark, and how to deploy the model for batch inference.
+Implement a recommendation engine using collaborative filtering approaches on large datasets. This project indicates how to handle large-scale data processing using Apache Spark, and how to deploy the model for batch inference.
 
     Tools: Apache Spark, Docker, AWS EMR, Flask
     Key Topics: Distributed computing, recommendation systems, batch inference
 
 # 4. Automated Hyperparameter Tuning with Optuna
 
-Automate the hyperparameter tuning process for a machine learning model using Optuna. This project sets up a pipeline to regularly tune hyperparameters and retrain the model with new data.
+This project automates the hyperparameter tuning process for a machine-learning model using Optuna. It sets up a pipeline to tune hyperparameters regularly and retrain the model with new data.
 
     Tools: Optuna, Scikit-learn, Ray, MLflow
     Key Topics: Hyperparameter optimization, automated retraining, MLOps
